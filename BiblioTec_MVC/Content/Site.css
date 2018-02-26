@@ -38,3 +38,7 @@ textoInicial p {
     width:auto;
 }
 
+.textoInicial p{
+    text-align: center;
+    font-size: xx-large;
+}
