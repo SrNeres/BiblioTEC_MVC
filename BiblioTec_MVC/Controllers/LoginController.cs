@@ -4,12 +4,17 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
+
 namespace BiblioTec_MVC.Controllers
 {
     public class LoginController : Controller
     {
         // GET: Login
         public ActionResult Login()
+        {
+            return View();
+        }
+        public ActionResult Acessar()
         {
             return View();
         }

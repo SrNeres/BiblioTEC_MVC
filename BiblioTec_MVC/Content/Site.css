@@ -19,3 +19,22 @@ textarea {
 textoInicial p {
     text-align:center;
 }
+
+.caixa{
+    
+    width: auto;
+    margin: 0 auto;
+   padding: 50px;
+ 
+}
+
+
+.campo input{
+  margin-left: 4px;
+  width:auto;
+}
+
+.campo2 input{
+    width:auto;
+}
+
